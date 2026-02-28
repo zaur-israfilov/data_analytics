@@ -1,19 +1,44 @@
-## Hi, I'm Zaur 👋  
-Aspiring Data Analyst from Azerbaijan 🇦🇿
+# Data Analytics Portfolio
 
-🔍 What I'm doing:
+This repository contains structured portfolio projects focused on:
 
-🎓 Studying Finance at Azerbaijan State University of Economics (UNEC)
+- SQL case studies  
+- Python data analysis  
+- Business intelligence reporting  
+- Real-world datasets  
 
-🔧 Improving practical skills in: Excel | SQL | Python | Power BI  
+---
 
-📊 Interested in: Data Scientist, Machine Learning
+## 📂 Project Structure
 
+```
+/sql
+/python
+/powerbi
+/excel
+/data
+/docs
+```
 
-📫 Let’s connect:
+---
 
-📧 Email: israfilovzaur1@gmail.com
+## 🧠 Skills Demonstrated
 
-🔗 LinkedIn: www.linkedin.com/in/zaur-israfilov-1524b925b
+- Data cleaning and transformation  
+- SQL querying and database design  
+- Exploratory data analysis (EDA)  
+- Data visualization  
+- Business insight extraction  
 
-📊 Kaggle: https://www.kaggle.com/zaursrafilov
+---
+
+## 📌 Current Projects
+
+Projects will be added progressively with documentation and results.
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/zaur-israfilov-1524b925b  
+Email: israfilovzaur1@gmail.com
